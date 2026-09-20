@@ -1,0 +1,8 @@
+[GitHub] (https://github.com/chipollina/Lab3-MarkdownLaTeX_Domracheva.git)
+[Markdown] (https://www.markdownguide.org/ "перейти на официальный сайт")
+![Скриншот задания](/img/commitStructureLab3_Domracheva.png)
+[Wiki] (https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0)
+[YouTube] (https://www.youtube.com/)
+[VK] (https://vk.ru/im/convo/607761882?entrypoint=list_all)
+![скрин задания](/img/headersCommitLab3_Domracheva.png)
+![скрин задания](/img/image.png)
