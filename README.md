@@ -67,21 +67,19 @@ print("Hello, Markdown!")
 ## Изображение 
 ![Push screenshot](./img/image.png)
 ## Ссылка
-
+[GitHub](https://github.com/chipollina/Lab3-MarkdownLaTeX_Domracheva)
 ## Чекбоксы
 -[]Task1
+
 -[x]Task2
 ## Сноска
 Markdown полезен в разработке[^1].
 
 [^1]: Примечание: Markdown широко используется для документации.
 ## Alert-блоки GitHub
-[!NOTE]
-Это простая заметка
-[!TIP]
-Полезный совет
-[!WARNING]
-Предупреждение
+[!NOTE] Это простая заметка
+[!TIP]Полезный совет
+[!WARNING]Предупреждение
 ## Inline LaTeX
 Площадь квадрата: $S=a^2$
 ## Block LaTeX
